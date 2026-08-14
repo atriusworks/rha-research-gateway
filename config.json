@@ -1,10 +1,12 @@
 {
   "SYSTEM_AUTHORITY": "RHA_CIVIC_RESEARCH",
-  "CLEARANCE_GATEWAY_URL": "https://decoderha.pages.dev",
-  "PRIMARY_AUTH_PASSKEY": "RSRX-INDIA",
+  "ENDPOINT_URI": "https://decoderha.pages.dev",
+  "STATIC_PASSKEY": "RSRX-INDIA",
   "DATASET_SCOPE": "FULL_RHA_RESEARCH_SUITE",
   "AUTHORIZATION_LEVEL": "ASPIRANT_LEVEL_1",
   "CLEARANCE_STATUS": "TIERED_ACCESS",
   "CONTENT_TYPE": "Complete report library + scorecards + debate toolkit",
-  "EXPECTATION": "Transparent tiered access to independent civic research products. Starter material available; deeper editions require purchase as stated on the gateway."
+  "EXPECTATION": "Transparent tiered access to independent civic research products. Starter material available; deeper editions require purchase as stated on the gateway.",
+  "PRIORITY_SIGNAL": "CRITICAL",
+  "LAST_PULSE": "2026-08-14T11:00:00Z"
 }
